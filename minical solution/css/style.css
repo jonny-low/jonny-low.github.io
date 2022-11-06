@@ -1,0 +1,107 @@
+/*
+ *
+ * ENG1003 2020-S1 Supplementary Assignment web app
+ * 
+ * Copyright (c) 2020  Monash University
+ *
+ * Written by Jonny Low
+ * 
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ * 
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ * 
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+*/
+table { 
+    width: 100%; 
+    box-sizing: border-box; 
+    box-shadow: inset 0px 0px 0px 1px rgba(0,0,0,0.1);
+    border-spacing: 0; 
+    background-color:#f7f3f3; 
+}
+
+.monthname{
+    font-size: 20px;
+    background-color: #70c5e4;
+}
+
+th, td { 
+    border: 1px solid rgba(255,255,255,0.1); 
+    box-sizing: border-box; 
+}
+
+th { 
+    text-transform: uppercase; 
+    font-size:10px; 
+    font-weight:700; 
+    padding: 10px 0; 
+    background-color: #f7f3f3; 
+    letter-spacing: 1px; 
+}
+
+td { 
+    width: 14.285%; 
+    transition: all 0.3s; 
+    font-size: 14px; 
+    color: rgba(3, 0, 0, 0.6); 
+    font-weight: 400; font-size: 14px; 
+    padding: 1.5% 1.5% 5%; 
+    vertical-align: initial; 
+    padding: 1.5% 0 ; 
+    height: 75px; 
+}
+
+.day:hover { 
+    background-color: rgba(0,0,0,0.1); 
+    cursor:pointer; 
+}
+
+span.number { 
+    margin-left: 10%;
+}
+
+span.event { 
+    height: 18px; 
+    background-color: rgba(0,0,0,.3); 
+    display: block; 
+    margin: 5px 10%; 
+    border-radius: 2px; 
+    background-color: hsl(82, 54%, 50%); 
+    color: #ffffff;
+}
+
+span.event-multiday { 
+    margin: 5px -2px; 
+    border-radius: 0;
+    background-color:#da5f5f; 
+}
+span.event-multiday-start { 
+    margin-right: -4px;
+    background-color:#da5f5f;  
+}
+span.event-multiday-finish { 
+    margin-left: -4px; 
+    background-color:#da5f5f; 
+}
+
+span.event-ghost { 
+    background-color:transparent; 
+}
+
+#h5{
+    font: bold;
+}
+

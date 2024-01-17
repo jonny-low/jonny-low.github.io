@@ -8,8 +8,8 @@ nav_order: 3
 ---
 
 ## 👨‍💻 IEEE (Region 10)
-- Graduate Student Member, IEEE Computational Intelligence Chapter
-- Graduate Student Member, IEEE Computer Chapter
+- Graduate Member, IEEE Engineering in Medicine & Biology Society
+- Graduate Member, IEEE Computer Society
 - 2017/18 Auditor, IEEE Malaysia COMSOC/VTS Joint Chapter
 - 2015/16 Auditor, IEEE Malaysia COMSOC/VTS Joint Chapter
 - 2011/12 Executive Committee, IEEE Malaysia COMSOC/VTS Joint Chapter
@@ -52,5 +52,4 @@ Multimedia University IEEE Student Branch Reunion in conjunction with [IEEE Day]
 
 ## 🏡 Volunteering Service
 - ⚜️Group Leader, [1st Mount Waverley Scout Group](https://www.1stmtwaverleyscouts.org.au/).
-- 💻 Webmaster, [Old Frees Association Kuala Lumpur & Selangor](https://www.ofakls.com/).
 - 🏫 School Council Parent Representative, [Glendal Primary School](https://www.glendalps.vic.edu.au/). (Term 2020-22)

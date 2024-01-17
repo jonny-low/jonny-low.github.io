@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 nav: true
 nav_order: 2
-display_categories: [work, fun, In Progress, Completed]
+display_categories: [In Progress, Completed]
 horizontal: false
 ---
 

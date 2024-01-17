@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /research/
-title: Research
 nav: true
 nav_order: 2
 display_categories: [In Progress, Completed]

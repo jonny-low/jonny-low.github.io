@@ -6,7 +6,7 @@ subtitle: B.Eng(Hons), MEng.Sc (Research)
 
 profile:
   align: right
-  image: jonny/JonnyLow.jpg
+  image: jonny/JonnyLow.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Monash University</p>

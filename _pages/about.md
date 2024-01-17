@@ -1,26 +1,25 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: B.Eng(Hons), MEng.Sc (Research)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jonny/JonnyLow.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Monash University</p>
+    <p>Rm 213, Level 2</p>
+    <p>20,Exhibition Walk (Woodside Building)</p>
+    <p>Clayton, VIC 3800</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+A lecturer / graduate researcher in the Department of Software System and Cybersecurity (SSC), Faculty of IT, Monash University Australia. From computer engineering specialised in computer networks background and having passion to ease our daily life through technology, Jonny is affiliated to [HumaniSE Lab](https://www.monash.edu/it/humanise-lab) working on his PhD research to help our healthcare frontliner coping with mental health patients through software engineering. He is also working on research projects related to biasness in computer science education and hospital triage settings to promote inclusive environment. Jonny's research interests are <strong>Software Engineering, AI in Healthcare, Bias in AI and Computer Network</strong>.
+<br><br>
+Jonny had experiences in different technical and management roles managing customer's enterprise IT infrastructures for Fortune 500 companies analysing customer's business use cases to deliver ideas through Proof-of-Concept projects for end to end solutions with the aim to improve service delivery operations. He was a Senior Researcher with [Telekom Research & Development](https://www.tmrnd.com.my/) (subsidiary of Telekom Malaysia) and Global Network Delivery Manager in Hewlett-Packard Enterprise Services (now known as DXC Technology) prior to that. A volunteer with IEEE and an adult leader with Scouts Victoria.

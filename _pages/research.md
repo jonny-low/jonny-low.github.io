@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Research
 permalink: /research/
-description: Research work that I've involved
+title: Research
 nav: true
 nav_order: 2
-display_categories: [In Progress,Completed]
+display_categories: [In Progress, Completed]
 horizontal: false
 ---
 

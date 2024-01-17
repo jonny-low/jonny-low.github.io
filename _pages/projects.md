@@ -5,7 +5,7 @@ permalink: /projects/
 description: Research work that I've involved
 nav: true
 nav_order: 2
-display_categories: [In Progress,Completed]
+display_categories: [work,fun]
 horizontal: false
 ---
 

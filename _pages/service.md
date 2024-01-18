@@ -31,10 +31,9 @@ nav_order: 3
 
 ## 🎤 Invited Talk | Workshop | Training | Seminar
 - Software Engineering talk, Engage Engineer 2022, [Robogals Monash](https://www.robogalsvic.org/monash), 4th July 2022
-Multimedia University IEEE Student Branch Reunion in conjunction with [IEEE Day](https://ieeeday.org/), 1st Oct 2021
+- Multimedia University IEEE Student Branch Reunion in conjunction with [IEEE Day](https://ieeeday.org/), 1st Oct 2021
 - Workshop on "Intro to Javascript", [Female Engineers in Monash (FEM) Society](https://www.femaleengineersatmonash.com/), 12th April 2021
 - Seminar  on “How to impress your interviewer " , IEEE Engineering Pre-Graduation Symposium, Multimedia University, 21st Jan 2015.
-- Technical Workshop on "Big Data", Faculty of Engineering, Multimedia University, 2nd July 2014
 - Technical Workshop on “Big Data”, [Neuramatix Sdn. Bhd](https://neuramatix.com/), 9th June 2014
 - IEEE Seminar on “How Involvement in Student Activities Help to Build My Engineering " , Faculty of Engineering, Multimedia University, 20th Mar 2014.
 - Training on “Network Operation Center Incident Management Process”, HP Enterprise Services, 19th Apr 2011.

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: boxpage
 permalink: /award/
 title: Award
 description: 🏆 Award & Recognitions 🎖️

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: boxpage
 permalink: /service/
 title: Service
 description: My professional services to research & communities
@@ -50,6 +50,6 @@ Multimedia University IEEE Student Branch Reunion in conjunction with [IEEE Day]
 - Unit guide Vetter, Learning, Education and eXperience (FLEX) – FIT Education Quality (2018-20)
 
 
-## 🏡 Volunteering Service
+## 🏡 Community
 - ⚜️Group Leader, [1st Mount Waverley Scout Group](https://www.1stmtwaverleyscouts.org.au/).
 - 🏫 School Council Parent Representative, [Glendal Primary School](https://www.glendalps.vic.edu.au/). (Term 2020-22)

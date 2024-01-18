@@ -9,9 +9,9 @@ profile:
   image: jonny/JonnyLow.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Monash University</p>
+    <h4>Monash University</h4>
     <p>Rm 213, Level 2</p>
-    <p>20,Exhibition Walk (Woodside Building)</p>
+    <p>20,Exhibition Walk (Woodside)</p>
     <p>Clayton, VIC 3800</p>
 
 news: false # includes a list of news items

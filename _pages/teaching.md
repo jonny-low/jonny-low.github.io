@@ -1,15 +1,13 @@
 ---
-layout: page
+layout: boxpage
 permalink: /teaching/
 title: Teaching
-description: Courses and units that I've taught in university
+description: 9 years of experiences in higher education as Chief Examiner, Lecturer and Tutor including teaching materials and assessments development for one or more of the following units/subject.
 nav: true
 nav_order: 5
 ---
 
-I have experiences as Chief Examiner, Lecturer and Tutor (including teaching materials and assessments development) for one or more of the following units/subject.
-
-### Monash University, Clayton
+### **Monash University, Clayton**
 
 - FIT4002 - Software engineering industry experience studio project
 - [FIT1051 - Programming Foundation for Java](https://handbook.monash.edu/2022/units/FIT1051?year=2022)
@@ -19,6 +17,6 @@ I have experiences as Chief Examiner, Lecturer and Tutor (including teaching mat
 - FIT2100 - Operating Systems
 - FIT2001 - System Development
 
-### University of Melbourne, Parkville
+### **University of Melbourne, Parkville**
 
 - [COMP90076 - Social Analytics](https://handbook.unimelb.edu.au/2024/subjects/comp90076/dates-times)

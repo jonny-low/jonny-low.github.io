@@ -1,10 +1,10 @@
 ---
 layout: page
 title: MentalTAC
-description: Development of Mental Health Triage App for Clinician
+description: Development of Mental Health Triage App for Clinician (Phase 1)
 img: assets/img/project/mentalTAC.png
 importance: 2
-category: In Progress
+category: Completed
 giscus_comments: false
 ---
 

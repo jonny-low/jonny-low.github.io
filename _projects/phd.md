@@ -1,9 +1,9 @@
 ---
 layout: page
 title: PhD
-description: Supporting Clinical Care using Machine Learning for Mental Health Patients in Hospital
+description: Supporting Mental Health Triage Nursing using Machine Learning in Emergency Departments
 img: assets/img/project/PhD.png
-redirect: https://www.monash.edu/it/humanise-lab/research/supporting-clinical-care-using-machine-learning-for-mental-health-patients-in-hospital
+redirect: https://www.monash.edu/it/humanise-lab/research/Supporting-Mental-Health-Triage-Nursing-using-Machine-Learning-in-Emergency-Departments
 importance: 1
 category: In Progress
 ---

@@ -37,6 +37,8 @@ layout: default
         {% endif %}
       </div>
 
+      <div class="clearfix">{{ content }}</div>
+
       <div style="background-color: white; padding: 5px; border-radius: 5px; text-align: center;">
         <img src="/assets/img/jonny/Databricks LH fundamental.png" width="100px" height="100px"></img>
         <img src="/assets/img/jonny/lpic1.gif" width="90px" height="90px"></img>
@@ -51,11 +53,7 @@ layout: default
         <img src="/assets/img/jonny/ofaauschapter.png" height="80px"></img>
       </div>
       <br>
-
-
     {% endif %}
-
-    <div class="clearfix">{{ content }}</div>
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}

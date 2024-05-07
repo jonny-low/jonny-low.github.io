@@ -2,7 +2,7 @@
 layout: boxpage
 permalink: /teaching/
 title: Teaching
-description: 9 years of experiences in higher education as Chief Examiner, Lecturer and Tutor including teaching materials and assessments development for one or more of the following units/subject.
+description: 9 years of experiences in higher education as Chief Examiner, Lecturer and Tutor including teaching materials and assessments development for the following units/subject.
 nav: true
 nav_order: 5
 ---

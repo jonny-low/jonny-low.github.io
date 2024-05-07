@@ -2,7 +2,7 @@
 layout: page
 title: DRS4MentalTAC
 description: Data Reporting Standardization for MentalTAC
-img: assets/img/project/reportwireframe.png
+img: assets/img/project/DRS4mentalTAC.png
 importance: 2
 category: In Progress
 giscus_comments: false
@@ -21,9 +21,9 @@ This project will be developed using the software development life cycle framewo
 
 ## Project Lead
 
-- Jonny Low (Research Assistant, HumaniSE)
-- [Agnes Haryanto](https://research.monash.edu/en/persons/agnes-haryanto) (Research Fellow, Embodied Visualisation)
-- [Dulaji Hidellaarachchi ](https://research.monash.edu/en/persons/dulaji-hidellaarachchi) (Research Fellow, HumaniSE)
+- Jonny Low
+- [Agnes Haryanto](https://research.monash.edu/en/persons/agnes-haryanto)
+- [Dulaji Hidellaarachchi](https://research.monash.edu/en/persons/dulaji-hidellaarachchi) 
 
 ## Students: 
 

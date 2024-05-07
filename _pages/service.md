@@ -33,7 +33,7 @@ nav_order: 3
 - "Towards Inclusive CS Education Environment", Inclusive Software Documentation Workshop, 13th June 2023
 - Software Engineering talk, Engage Engineer 2022, [Robogals Monash](https://www.robogalsvic.org/monash), 4th July 2022
 - Multimedia University IEEE Student Branch Reunion in conjunction with [IEEE Day](https://ieeeday.org/), 1st Oct 2021
-- Workshop on "Intro to Javascript", [Female Engineers in Monash (FEM) Society](https://www.femaleengineersatmonash.com/), 12th April 2021
+- Workshop on "Intro to Javascript", [Women in Engineering at Monash](https://womeninengatmonash.com/), 12th April 2021
 - Seminar  on “How to impress your interviewer " , IEEE Engineering Pre-Graduation Symposium, Multimedia University, 21st Jan 2015.
 - Technical Workshop on “Big Data”, [Neuramatix Sdn. Bhd](https://neuramatix.com/), 9th June 2014
 - IEEE Seminar on “How Involvement in Student Activities Help to Build My Engineering " , Faculty of Engineering, Multimedia University, 20th Mar 2014.

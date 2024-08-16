@@ -41,15 +41,6 @@ nav_order: 3
 - Technical Workshop on “Scalable Streaming and Bandwidth Estimation”, [TM R&D Sdn. Bhd](https://www.tmrnd.com.my/) , 13th Jan 2009.
 - Student Workshop on “Introduction to PSpice”, IEEE Student Branch Multimedia University, 16th Nov 2009.
 
-
-## Ⓜ️ Service to the faculty
-- Project Officer, Faculty of IT Graduate Research Office (2022 - 23)
-- TA Representative, Faculty of IT (2020-22)
-- Faculty Trainer for Admin TA, Faculty of IT (2020)
-- Mentor, Faculty of IT Peer Observation Program (2016 - 23)
-- Unit guide Vetter, Learning, Education and eXperience (FLEX) – FIT Education Quality (2018-20)
-
-
 ## 🏡 Community
 - ⚜️Group Leader, [1st Mount Waverley Scout Group](https://www.1stmtwaverleyscouts.org.au/).
 - 🏫 School Council Parent Representative, [Glendal Primary School](https://www.glendalps.vic.edu.au/). (Term 2020-22)

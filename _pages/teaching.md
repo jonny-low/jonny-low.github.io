@@ -7,6 +7,16 @@ nav: true
 nav_order: 5
 ---
 
+### **Victoria University, Footscray Park**
+
+- NIT1102 - Introduction to Python Programming
+- NIT1101 - Web Development & CMS (Unit Convenor)
+- NIT1203 - Introduction to IT Project Management (Unit Convenor)
+
+### **University of Melbourne, Parkville**
+
+- [COMP90076 - Social Analytics](https://handbook.unimelb.edu.au/2024/subjects/comp90076/dates-times)
+
 ### **Monash University, Clayton**
 
 - FIT4002 - Software engineering industry experience studio project
@@ -16,7 +26,3 @@ nav_order: 5
 - ENG1003 - Engineering Mobile Apps
 - FIT2100 - Operating Systems
 - FIT2001 - System Development
-
-### **University of Melbourne, Parkville**
-
-- [COMP90076 - Social Analytics](https://handbook.unimelb.edu.au/2024/subjects/comp90076/dates-times)

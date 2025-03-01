@@ -22,7 +22,7 @@ We interviewed 18 CS/SE students to explore their experiences based on Interpret
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project/inclusiveedu.png" title="inclusiveEdu" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project/inclusiveEdu.png" title="inclusiveEdu" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

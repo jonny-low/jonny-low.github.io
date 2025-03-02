@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-02-12
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper "Understanding Students’ Experience and Perception of Gender Bias in a Software Engineering Education Environment" has been accepted at the 37th edition of the IEEE Conference on Software Engineering Education and Training (CSEE&T 2025), co-located with ICSE 2025!

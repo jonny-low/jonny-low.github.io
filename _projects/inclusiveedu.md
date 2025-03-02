@@ -31,3 +31,6 @@ We interviewed 18 CS/SE students to explore their experiences based on Interpret
 - Jonny PJ Low (Research Assistant, HumaniSE)
 - Laurette Professor John Grundy (Lab Director, HumaniSE)
 
+## Acknowledgement
+
+This project was supported by [Google Award for Inclusion Research Program](https://research.google/programs-and-events/award-for-inclusion-research-program/)

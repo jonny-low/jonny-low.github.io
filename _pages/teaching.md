@@ -9,9 +9,13 @@ nav_order: 5
 
 ### **Victoria University, Footscray Park**
 
-- NIT1102 - Introduction to Python Programming
 - NIT1101 - Web Development & CMS (Unit Convenor)
-- NIT1203 - Introduction to IT Project Management (Unit Convenor)
+- NIT1102 - Introduction to Programming
+- NIT1103 - Communication and Information Management (Unit Convenor)
+- NIT1201 - Introduction to Database Systems
+- NIT1202 - Operating Systems (Unit Convenor)
+- NIT1203 - Introduction to Project Management (Unit Convenor)
+- NIT1204 - Web Application & Server Management
 
 ### **University of Melbourne, Parkville**
 

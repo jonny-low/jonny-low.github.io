@@ -3,8 +3,8 @@ layout: page
 title: DRS4MentalTAC
 description: Data Reporting Standardization for MentalTAC
 img: assets/img/project/DRS4mentalTAC.png
-importance: 2
-category: In Progress
+importance: 1
+category: Completed
 giscus_comments: false
 ---
 

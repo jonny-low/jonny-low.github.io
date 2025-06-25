@@ -3,8 +3,16 @@ layout: page
 title: SKALA
 description: Scalable Streaming and Bandwidth Management for Multimedia Distribution
 img: assets/img/project/multimediastream.jpeg
-importance: 5
+importance: 6
 category: Completed
 ---
 
-## 🛠️ UNDER CONSTRUCTION
+## Background
+
+
+
+## Goal
+
+
+## Method
+

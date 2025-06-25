@@ -3,7 +3,7 @@ layout: page
 title: InclusiveEdu
 description: Towards a better Computer Sciences Education Environment 
 img: assets/img/project/eng1003class.png
-importance: 3
+importance: 2
 category: Completed
 ---
 
@@ -31,6 +31,11 @@ We interviewed 18 CS/SE students to explore their experiences based on Interpret
 - Jonny PJ Low (Research Assistant, HumaniSE)
 - Laurette Professor John Grundy (Lab Director, HumaniSE)
 
+## Publication
+T. Kanij, J. Low and J. Grundy, "Understanding Students' Experience and Perception of Gender Bias in a Software Engineering Education Environment," in 2025 IEEE/ACM 37th International Conference on Software Engineering Education and Training (CSEE\&T), Ottawa, ON, Canada, 2025, pp. 146-157, doi: 10.1109/CSEET66350.2025.00022.
+
+
 ## Acknowledgement
 
 This project was supported by [Google Award for Inclusion Research Program](https://research.google/programs-and-events/award-for-inclusion-research-program/)
+

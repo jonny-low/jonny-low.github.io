@@ -6,7 +6,7 @@ subtitle: BE(Hons)(MMU), MEngSc (MMU), PhD Candidate (Monash)
 
 profile:
   align: right
-  image: jonny/JonnyLow.png
+  image: jonny/Jonny.png
   image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
@@ -17,4 +17,4 @@ social: true # includes social icons at the bottom of the page
 
 Jonny is a lecturer in Information Technology at Victoria University's [First Year College](https://www.vu.edu.au/about-vu/teaching-colleges-schools/vu-first-year-college), responsible for overseeing the academic delivery of first-year programs across Melbourne, Sydney, and Brisbane. More details about his role can be found on his official [VU profile](https://www.vu.edu.au/contact-us/jonny-low). He is also an active member of the Block Research Community of Practice, where he contributes to the innovation of IT pedagogy within the [VU Block Model](https://www.vu.edu.au/study-at-vu/why-choose-vu/vu-block-model).
 <br><br>
-In addition to his academic responsibilities, Jonny is pursuing a PhD in Artificial Intelligence in Mental Health at the [HumaniSE Lab](https://www.monash.edu/it/humanise-lab), Faculty of IT, Monash University. His research interests encompass <strong>Software Engineering, AI in Healthcare, Computer Networks, and Computer Science Education</strong>. Before transitioning to academia, he held the role of Global Network Delivery Manager at Hewlett-Packard Enterprise Services (now DXC Technology) and served as a Senior Researcher at [Telekom Research & Development](https://www.tmrnd.com.my/), a subsidiary of Telekom Malaysia.
+In addition to his academic responsibilities, Jonny is pursuing PhD in [HumaniSE Lab](https://www.monash.edu/it/humanise-lab), Faculty of IT, Monash University. His research interests encompass <strong>Software Engineering in Healthcare, Computer Networks, and CS Education</strong>. Before transitioning to academia, he held the role of Global Network Delivery Manager at Hewlett-Packard Enterprise Services (now DXC Technology) and served as a Senior Researcher at [Telekom Research & Development](https://www.tmrnd.com.my/), a subsidiary of Telekom Malaysia.

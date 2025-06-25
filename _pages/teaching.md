@@ -12,6 +12,7 @@ nav_order: 5
 - NIT1101 - Web Development & CMS (Unit Convenor)
 - NIT1102 - Introduction to Programming
 - NIT1103 - Communication and Information Management (Unit Convenor)
+- NIT1104 - Computer Networks
 - NIT1201 - Introduction to Database Systems
 - NIT1202 - Operating Systems (Unit Convenor)
 - NIT1203 - Introduction to Project Management (Unit Convenor)

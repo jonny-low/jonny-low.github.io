@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Welcome to Ruoxu, master student in data science to the MentalTAC minor thesis project! :sparkles: :smile:
+Welcome to Ruoxu, master student in data science to the MentalTAC minor thesis project! :smile:

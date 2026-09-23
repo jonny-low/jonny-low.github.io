@@ -12,7 +12,6 @@ nav_order: 5
 - [NIT1001 - Introduction to Data Science](https://www.vu.edu.au/units/introduction-to-data-science-nit1001) (Unit Convenor)
 - NIT1101 - Web Development & CMS (Unit Convenor)
 - NIT1102 - Introduction to Programming
-- NIT1103 - Communication and Information Management (Unit Convenor)
 - NIT1104 - Computer Networks
 - NIT1201 - Introduction to Database Systems
 - NIT1202 - Operating Systems (Unit Convenor)

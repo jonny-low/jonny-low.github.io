@@ -7,6 +7,7 @@ nav: true
 nav_order: 4
 ---
 
+- [Meritorious Service Award](https://scouts.com.au/about/what-is-scouting/awards/#:~:text=Meritorious%20Service%20Award), Scouts Australia (2026)
 - [Special Service Award](https://scouts.com.au/about/what-is-scouting/awards/#:~:text=Special%20Service%20Award), Scouts Australia (2022)
 - Australian Government Research Training Program PhD Scholarship (2022)
 - Monash University “Teaching Excellence Award” Nominee for 3 consecutive years (2017-2019)

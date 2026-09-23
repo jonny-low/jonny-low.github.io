@@ -9,18 +9,19 @@ nav_order: 5
 
 ### **Victoria University, Footscray Park**
 
+- [NIT1001 - Introduction to Data Science](https://www.vu.edu.au/units/introduction-to-data-science-nit1001) (Unit Convenor)
 - NIT1101 - Web Development & CMS (Unit Convenor)
 - NIT1102 - Introduction to Programming
 - NIT1103 - Communication and Information Management (Unit Convenor)
 - NIT1104 - Computer Networks
 - NIT1201 - Introduction to Database Systems
 - NIT1202 - Operating Systems (Unit Convenor)
-- NIT1203 - Introduction to Project Management (Unit Convenor)
+- [NIT1203 - Introduction to Project Management](https://www.vu.edu.au/units/introduction-to-project-management-nit1203) (Unit Convenor)
 - NIT1204 - Web Application & Server Management
 
 ### **University of Melbourne, Parkville**
 
-- [COMP90076 - Social Analytics](https://handbook.unimelb.edu.au/2024/subjects/comp90076/dates-times)
+- [COMP90076 - Social Analytics](https://handbook.unimelb.edu.au/2024/subjects/comp90076/dates-times) (Unit Coordinator)
 
 ### **Monash University, Clayton**
 

@@ -16,7 +16,6 @@ nav_order: 5
 - NIT1201 - Introduction to Database Systems
 - NIT1202 - Operating Systems (Unit Convenor)
 - [NIT1203 - Introduction to Project Management](https://www.vu.edu.au/units/introduction-to-project-management-nit1203) (Unit Convenor)
-- NIT1204 - Web Application & Server Management
 
 ### **University of Melbourne, Parkville**
 

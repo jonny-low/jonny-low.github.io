@@ -6,7 +6,7 @@ subtitle: BE(Hons)(MMU), MEngSc (MMU), PhD Candidate (Monash)
 
 profile:
   align: right
-  image: Jonny.png
+  image: Jonny_v2.png
   image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
